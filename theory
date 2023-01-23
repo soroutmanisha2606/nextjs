@@ -1,0 +1,32 @@
+it an react framework
+why........
+-ssr(server side rendering)
+-userfriendly
+-seo(means when we search in google our website will be shown first );
+-super fast
+-easy to scan
+-better recognition
+-more salary
+-better ux
+-file based routing
+-support for css modules
+-pre-rendering
+-image optimization
+-api route
+-Typescript support
+
+
+
+
+##### install 
+npx create-next-app name
+
+
+
+
+#### run
+npm run dev
+
+
+
+
