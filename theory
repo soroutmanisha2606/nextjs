@@ -31,6 +31,11 @@ npm run dev
 -file based routing mechnism
 
 
+### if we make our own 404 file
+1. file should start from 404.tsx naming
+
+
+
 
 
 
