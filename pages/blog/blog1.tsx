@@ -1,4 +1,5 @@
-//these are the nested linking 
+//these are the nested routing
+
 
 const blog1 = () => {
   return (
