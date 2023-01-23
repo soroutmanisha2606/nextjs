@@ -27,6 +27,10 @@ npx create-next-app name
 #### run
 npm run dev
 
+### routing in nextjs
+-file based routing mechnism
+
+
 
 
 
